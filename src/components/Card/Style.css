@@ -1,6 +1,5 @@
-#card{
+#card {
     width: 300px;
-    /* border: solid 2px blue; */
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 10px;
@@ -8,17 +7,29 @@
     cursor: pointer;
     margin: 20px;
 }
-#card:hover{
+
+#card:hover {
     transform: scale(0.97);
+    background-color: rgb(4, 4, 98);
 }
-h3{
+#card:hover  h3 {
+    color: rgb(4, 4, 98) ;
+    background-color: white;
+}
+#card:hover  p {
+    color: rgb(255, 255, 255) ;
+    
+}
+
+h3 {
     text-align: center;
     background-color: rgb(4, 4, 98);
     color: white;
     padding-block: 10px;
     border-radius: 5px;
 }
-h4{
+
+h4 {
     background-color: rgb(178, 178, 223);
     color: white;
     padding: 10px;

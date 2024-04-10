@@ -26,6 +26,48 @@ function App() {
         address={"Thalpitiya"}
         age={"24"}>
       </Card>
+
+      <Card
+        heading={"Minali"}
+        address={"Gampaha"}
+        age={"20"}>
+      </Card>
+
+      <Card
+        heading={"Lasindu Umayanga"}
+        address={"Kalutara"}
+        age={"21"}>
+      </Card>
+
+      <Card
+        heading={"Hansani Gayasha"}
+        address={"Colombo"}
+        age={"24"}>
+      </Card>
+
+      <Card
+        heading={"Dhananjaya Sandaruwan"}
+        address={"Aralaganwila"}
+        age={"20"}>
+      </Card>
+
+      <Card
+        heading={"Kalana Dhananjaya"}
+        address={"Anuradhapura"}
+        age={"22"}>
+      </Card>
+
+      <Card
+        heading={"Yasindu Nipun"}
+        address={"Aluthgama"}
+        age={"26"}>
+      </Card>
+
+      <Card
+        heading={"Tharindu Madhushan"}
+        address={"Polonnaruwa"}
+        age={"28"}>
+      </Card>
     </div>
 
 
